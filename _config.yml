@@ -10,9 +10,9 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -20,8 +20,8 @@ title                    : "Vishakha Shukla"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Vishakha Shukla"
-description              : "Welcome!"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "A personal academic website"
+url                      : https://vishakhashukla.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -103,14 +103,14 @@ analytics:
 # Site Author
 author:
   name             : "Vishakha Shukla"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile1.jpg"
   bio              : "Doctoral Student"
   location         : "NY"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto: vshukla@nyu.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -151,6 +151,7 @@ footer:
 
 
 # Reading Files
+include: ["_pages"]
 include:
   - .htaccess
   - _pages
@@ -288,3 +289,8 @@ defaults:
       comments: # true
       share: true
       related: true
+sidebar:
+  - title: "Title"
+    image: "/assets/images/your-image.jpg"
+    image_alt: "image"
+    text: "Some text here."
