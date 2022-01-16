@@ -294,3 +294,5 @@ sidebar:
     image: "/assets/images/your-image.jpg"
     image_alt: "image"
     text: "Some text here."
+
+theme: jekyll-theme-slate
