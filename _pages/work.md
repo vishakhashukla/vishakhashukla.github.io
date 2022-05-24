@@ -7,7 +7,9 @@ author_profile: false
 ---
 ## Peer-reviewed articles
 
-**Shukla V.**, Long M., Bhatia V. & Rubio-Fernandez P.(2021). Some sentences prime pragmatic reasoning in the verification and evaluation of comparisons. _Journal of Experimental Psychology: Learning, Memory, and Cognition_.
+Rubio-Fernandez, P., Long, M., **Shukla, V.**, Bhatia, V., & Sinha, P. (2022). Visual perspective taking is not automatic in a simplified Dot task: Evidence from newly sighted children, primary school children and adults. _Neuropsychologia_, 108256. [https://doi.org/10.1016/j.neuropsychologia.2022.108256](https://doi.org/10.1016/j.neuropsychologia.2022.108256)
+
+**Shukla V.**, Long M., Bhatia V. & Rubio-Fernandez P.(2021). Some sentences prime pragmatic reasoning in the verification and evaluation of comparisons. _Journal of Experimental Psychology: Learning, Memory, and Cognition_. [https://doi.org/10.1037/xlm0001082](https://doi.org/10.1037/xlm0001082)
 
 Long M., **Shukla V.** & Rubio-Fernandez P. (2021). The development of simile comprehension: from similarity to scalar implicature. _Child Development_. [https://doi.org/10.1111/cdev.13507](https://doi.org/10.1111/cdev.13507)
 
