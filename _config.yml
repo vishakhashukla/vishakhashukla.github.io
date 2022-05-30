@@ -12,7 +12,7 @@
 
 theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -103,10 +103,10 @@ analytics:
 # Site Author
 author:
   name             : "Vishakha Shukla"
-  avatar           : "/assets/images/profile1.jpg"
+  avatar           : "/assets/images/mug.jpg"
   bio              : "Doctoral Student"
   location         : "NYU"
-  email            :
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -126,7 +126,6 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-
 # Site Footer
 footer:
   links:
@@ -291,8 +290,9 @@ defaults:
       related: true
 sidebar:
   - title: "Title"
-    image: "/assets/images/your-image.jpg"
+    image: "/assets/images/learnLab.jpg"
     image_alt: "image"
     text: "Some text here."
+
 
 theme: jekyll-theme-slate

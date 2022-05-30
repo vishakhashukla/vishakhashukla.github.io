@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "About"
-    url: https://vishakhashukla.github.io
+    url: /
 #  - title: "Research"
 #   url: /Research/
   - title: "Publications"
     url: /Work/
   - title: "CV"
-    url: https://vishakhashukla.github.io/CV-May2022.pdf
+    url: /CV-May2022.pdf
 
 
 
