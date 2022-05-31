@@ -239,6 +239,12 @@
           </a>
         </li>
       {% endif %}
+      
+       {% if author.googlescholar %}
+        <li>
+        	<a href="{{ author.googlescholar }}">
+        	<i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+      {% endif %}
 
       {% include author-profile-custom-links.html %}
     </ul>
