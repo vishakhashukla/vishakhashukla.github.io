@@ -7,13 +7,17 @@ author_profile: false
 ---
 ## Peer-reviewed articles
 
-Rubio-Fernandez, P., Long, M., **Shukla, V.**, Bhatia, V., & Sinha, P. (2022). Visual perspective taking is not automatic in a simplified Dot task: Evidence from newly sighted children, primary school children and adults. _Neuropsychologia_, 108256. [https://doi.org/10.1016/j.neuropsychologia.2022.108256](https://doi.org/10.1016/j.neuropsychologia.2022.108256)
+**Shukla, V.**, Long, M., Rubio-Fernandez, P. (2022). Children’s acquisition of new/given markers in English, Hindi, Mandinka and Spanish: Exploring the effect of optionality during grammaticalization. _Glossa Psycholinguistics_. <a href="https://doi.org/10.5070/G6011120" target = "_blank">https://doi.org/10.5070/G6011120</a>
 
-**Shukla V.**, Long M., Bhatia V. & Rubio-Fernandez P.(2021). Some sentences prime pragmatic reasoning in the verification and evaluation of comparisons. _Journal of Experimental Psychology: Learning, Memory, and Cognition_. [https://doi.org/10.1037/xlm0001082](https://doi.org/10.1037/xlm0001082)
+Rubio-Fernandez, P., **Shukla, V.**, Bhatia, V., Ben-Ami, S., & Sinha, P. (2022). Head turning is an effective cue for gaze following: Evidence from newly sighted individuals, school children and adults. _Neuropsychologia_. <a href="https://doi.org/10.1016/j.neuropsychologia.2022.108330" target = "_blank">https://doi.org/10.1016/j.neuropsychologia.2022.108330</a>
 
-Long M., **Shukla V.** & Rubio-Fernandez P. (2021). The development of simile comprehension: from similarity to scalar implicature. _Child Development_. [https://doi.org/10.1111/cdev.13507](https://doi.org/10.1111/cdev.13507)
+Rubio-Fernandez, P., Long, M., **Shukla, V.**, Bhatia, V., & Sinha, P. (2022). Visual perspective taking is not automatic in a simplified Dot task: Evidence from newly sighted children, primary school children and adults. _Neuropsychologia_. <a href = "https://doi.org/10.1016/j.neuropsychologia.2022.108256" target = "_blank">https://doi.org/10.1016/j.neuropsychologia.2022.108256</a>
 
-Yadav H., Vaidya A., **Shukla V.** & Husain S. (2020). Word Order Typology Interacts With Linguistic Complexity: A Cross‐Linguistic Corpus Study. _Cognitive science_. [https://doi.org/10.1111/cogs.12822](https://doi.org/10.1111/cogs.12822)
+**Shukla V.**, Long M., Bhatia V. & Rubio-Fernandez P.(2021). Some sentences prime pragmatic reasoning in the verification and evaluation of comparisons. _Journal of Experimental Psychology: Learning, Memory, and Cognition_. <a href = "https://doi.org/10.1037/xlm0001082" target = "_blank">https://doi.org/10.1037/xlm0001082</a>
+
+Long M., **Shukla V.** & Rubio-Fernandez P. (2021). The development of simile comprehension: from similarity to scalar implicature. _Child Development_. <a href = "https://doi.org/10.1111/cdev.13507" target = "_blank">https://doi.org/10.1111/cdev.13507</a>
+
+Yadav H., Vaidya A., **Shukla V.** & Husain S. (2020). Word Order Typology Interacts With Linguistic Complexity: A Cross‐Linguistic Corpus Study. _Cognitive science_. <a href = "https://doi.org/10.1111/cogs.12822" target = "_blank">https://doi.org/10.1111/cogs.12822</a>
 
 ## Conference Presentations
 
