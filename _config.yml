@@ -284,11 +284,11 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
+      author_profile: false
+      read_time: false
       comments: # true
-      share: true
-      related: true
+      share: false
+      related: false
 sidebar:
   - title: "Title"
     image: "/assets/images/learnLab.jpg"
