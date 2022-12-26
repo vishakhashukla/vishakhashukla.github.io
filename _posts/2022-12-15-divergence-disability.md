@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Re-inventing the wheel?
 classes: wide
 ---
