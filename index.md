@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-classes: wide
+classes: landing
 ---
 
 I am a second year PhD student in the 
@@ -12,3 +12,4 @@ I am interested in language development in autistic and nonspectrum children, pa
 <br>
 <br>
 I have a developing interest in neurodiversity studies and like getting to know other neurodivergent academics. You can reach me at <a href= "mailto:vshukla@nyu.edu"> vshukla@nyu.edu </a> if you would like to connect.
+
