@@ -33,18 +33,19 @@ body {
 .initial-content,
 .search-content {
   flex: 1 0 auto;
+  margin-top: 4em;
 }
 
 .page {
   @include breakpoint($large) {
     float: right;
-    width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-right: $right-sidebar-width-narrow;
+    width: 70%;
+    padding-left: 20px;
   }
 
   @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
-    padding-right: $right-sidebar-width;
+    width: 70%;
+ 
   }
 
   .page__inner-wrap {

@@ -18,7 +18,6 @@
 
   @include breakpoint($large) {
     float: left;
-    width: calc(#{$right-sidebar-width-narrow} - 1em);
     opacity: 0.75;
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
@@ -37,7 +36,7 @@
   }
 
   @include breakpoint($x-large) {
-    width: calc(#{$right-sidebar-width} - 1em);
+  
   }
 
   > * {
@@ -122,9 +121,10 @@
    ========================================================================== */
 
 .author__avatar {
-  display: table-cell;
+  display:  block;
   vertical-align: top;
-  width: 36px;
+  width: 100%;
+  
   //height: 36px;
 
   @include breakpoint($large) {
@@ -134,18 +134,22 @@
   }
 
   img {
-    max-width: 1000px;
+  	margin: auto;
     border-radius: 20%;
+    width: 300px;
 
     @include breakpoint($large) {
       padding: 5px;
       border: 1px solid $border-color;
+      width: 300px;
     }
-  }
+  
+    }
+
 }
 
 .author__content {
-  display: table-cell;
+  display: none;
   vertical-align: top;
   padding-left: 15px;
   padding-right: 25px;
@@ -188,7 +192,7 @@
 
 .author__urls-wrapper {
   position: relative;
-  display: table-cell;
+  display: none;
   vertical-align: middle;
   font-family: $sans-serif;
   z-index: 20;

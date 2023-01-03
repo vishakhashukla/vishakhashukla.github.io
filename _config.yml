@@ -102,8 +102,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vishakha Shukla"
-  avatar           : "/assets/images/mug.jpg"
+  name             : #"Vishakha Shukla"
+  avatar           : "/assets/images/mug-crop.jpg"
   bio              : "Doctoral Student"
   location         : "NYU"
   email            : "vshukla@nyu.edu"
