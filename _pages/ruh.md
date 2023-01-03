@@ -17,8 +17,8 @@ gallery:
     alt: "penny" 
   - image_path: /assets/images/ruh/neon-2.jpg
     alt: "principessa" 
-  - image_path: /assets/images/ruh/pennywise.jpg
-    alt: "keeping an eye" 
+  - image_path: /assets/images/ruh/hoola-hoop.jpg
+    alt: "hooping" 
   - image_path: /assets/images/ruh/pack-leader.jpg
     alt: "alpha dog"
   - image_path: /assets/images/ruh/sleeping-beauty.jpeg
