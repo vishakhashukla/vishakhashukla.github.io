@@ -2,7 +2,7 @@
 layout: single
 classses: wide
 permalink: /ruh/
-title: "Ruh"
+title: "Ruh (_rooh_)"
 classes: wide
 gallery:
   - image_path: /assets/images/ruh/necklace.jpg
@@ -24,7 +24,7 @@ gallery:
   - image_path: /assets/images/ruh/sleeping-beauty.jpeg
     alt: "sleeping beaut"  
 ---
-Ruh (full name: Ruh-e-khus) is named after one of my favorite fragrances (Vetiver). She is a <a href = "https://en.wikipedia.org/wiki/Indian_pariah_dog">Desi Dog </a> but my parents (who she lives with now) are convinced she is a <a href = "https://en.wikipedia.org/wiki/Rajapalayam_dog">Rajapalayam.</a> She is fiercely independent and really smart. I miss her. Sharing her beauty here: 
+Ruh (full name: रूह-ए-ख़स ) is named after one of my favorite fragrances (Vetiver). She is a <a href = "https://en.wikipedia.org/wiki/Indian_pariah_dog">Desi Dog </a> but my parents (who she lives with now) are convinced she is a <a href = "https://en.wikipedia.org/wiki/Rajapalayam_dog">Rajapalayam.</a> She is fiercely independent and really smart. I miss her. Sharing her beauty here: 
 
 {% include gallery class="full" %}
 
