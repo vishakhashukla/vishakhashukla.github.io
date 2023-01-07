@@ -3,6 +3,11 @@ title: NDRG - Reflections
 layout: collection
 permalink: /ndrg-blog/
 collection: ndrg
+sidebar:
+  - title: ""
+    image: "/assets/images/ndrg-modified.png"
+    image_alt: "ndrg-logo"
+#    text: "Some text here."
 
 ---
 

@@ -15,6 +15,8 @@ gallery:
     alt: "queen" 
   - image_path: /assets/images/ruh/pennywise.jpg
     alt: "penny" 
+  - image_path: /assets/images/ruh/blanket.jpeg
+    alt: "cold" 
   - image_path: /assets/images/ruh/neon-2.jpg
     alt: "principessa" 
   - image_path: /assets/images/ruh/hoola-hoop.jpg
@@ -23,6 +25,7 @@ gallery:
     alt: "alpha dog"
   - image_path: /assets/images/ruh/sleeping-beauty.jpeg
     alt: "sleeping beaut"  
+ 
 ---
 Ruh (full name: रूह-ए-ख़स ) is named after one of my favorite fragrances (Vetiver). She is a <a href = "https://en.wikipedia.org/wiki/Indian_pariah_dog">Desi Dog </a> but my parents (who she lives with now) are convinced she is a <a href = "https://en.wikipedia.org/wiki/Rajapalayam_dog">Rajapalayam.</a> She is fiercely independent and really smart. I miss her. Sharing her beauty here: 
 
