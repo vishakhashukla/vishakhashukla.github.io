@@ -15,8 +15,11 @@ I am interested in language development in autistic and non-autistic children, p
 I have a developing interest in neurodiversity studies and I run a reading group focussed on ideas emerging in this field. I post my thoughts after each meeting on <a href = "/ndrg-blog/">**N**euro**D**iversity **R**eading **G**roup blog.</a> I like getting to know other neurodivergent academics. You can reach me at <a href= "mailto:vshukla@nyu.edu"> vshukla@nyu.edu </a> if you would like to connect.
 <br>
 
-__Affiliated Lab:__    
+__Affiliated lab:__ <br>
+<a href="https://wp.nyu.edu/learnlab/">
 <img align="left" src="/assets/images/learnLab.jpg" alt="" width = 200> 
+</a>
+
 <div style="text-align: right"> <a href = "/ruh/"> <sup><sub>RUH</sub></sup> </a> </div> 
 
 
