@@ -21,6 +21,8 @@ Yadav H., Vaidya A., **Shukla V.** & Husain S. (2020). Word Order Typology Inter
 
 ## Conference Presentations
 
+Comprehension of unscripted parent narratives by autistic children. **Vishakha Shukla**, Angela Xiaoxue He, Sudha Arunachalam. _Symposium on Research in Child Language Disorders_. June, 2022 (UW Madison).
+
 Eliciting narratives in diferent languages, cultures and platforms: methodological insights. Vrinda Bhatia, Anwesha Mahapatra, **Vishakha Shukla** and Paula Rubio-Fernandez. _MODE: Methods of Online Discourse Elicitation Conference_. Nov, 2021 (Virtual).
 
 Children’s acquisition of new/given markers in English, Hindi, Mandinka and Spanish. **Vishakha Shukla**, Madeleine Long, Vrinda Bhatia and Paula Rubio-Fernandez. _South Asian Forum on the Acquisition and Processing of Language (SAFAL)_. Aug, 2021 (Virtual).

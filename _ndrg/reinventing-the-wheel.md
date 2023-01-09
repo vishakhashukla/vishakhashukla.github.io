@@ -2,6 +2,10 @@
 title: Re-inventing the wheel?
 classes: wide
 excerpt: Is ND movement re-inventing the wheel without fair justification? Divergence from broader Disability Rights movement
+sidebar:
+  - title: ""
+    image: "/assets/images/ndrg-modified.png"
+    image_alt: "ndrg-logo"
 ---
 | Paper         | Authors | 
 |-------------- |---------| 
