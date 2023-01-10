@@ -10,4 +10,10 @@ $link-color: #0E6C70;
 .sidebar {
   opacity: 1.0;
 }
+html {
+  font-size: 20px; // change to whatever
 
+  @include breakpoint($x-large) {
+    font-size: 22px; // change to whatever
+  }
+}

@@ -25,7 +25,9 @@ gallery:
   - image_path: /assets/images/ruh/pack-leader.jpg
     alt: "alpha dog"
   - image_path: /assets/images/ruh/sleeping-beauty.jpeg
-    alt: "sleeping beaut"  
+    alt: "sleeping beaut" 
+  - image_path: /assets/images/ruh/tongue-sticking-out.jpeg
+    alt: "sun out tongue out"  
  
 ---
 
