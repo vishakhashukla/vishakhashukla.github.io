@@ -27,10 +27,10 @@ Eliciting narratives in diferent languages, cultures and platforms: methodologic
 
 Children’s acquisition of new/given markers in English, Hindi, Mandinka and Spanish. **Vishakha Shukla**, Madeleine Long, Vrinda Bhatia and Paula Rubio-Fernandez. _South Asian Forum on the Acquisition and Processing of Language (SAFAL)_. Aug, 2021 (Virtual).
 
-Priming pragmatic reasoning in the verification and evaluation of comparisons. Vishakha Shukla, Madeleine Long, Vrinda Bhatia and Paula Rubio-Fernandez. _34th CUNY_. Mar, 2021 (Virtual).
+Priming pragmatic reasoning in the verification and evaluation of comparisons. **Vishakha Shukla**, Madeleine Long, Vrinda Bhatia and Paula Rubio-Fernandez. _34th CUNY_. Mar, 2021 (Virtual).
 
 Two cross-linguistic studies on the acquisition of definiteness and Theory of Mind. **Vishakha Shukla**, Madeleine Long, Fatoumata Jallow, Shlomit Ben-Ami, Marta Bialecka-Pikul, Julin Jara-Ettinger Paula Rubio-Fernndez. _Meaning in Flux: Connecting development, variation, and change_. Oct, 2019 (Yale University).
 
-Perspective taking in newly-sighted kids: Do they orient towards an interlocutors face? Paula Rubio-Fernandez, Vishakha Shukla, Shlomit Ben Ami, Chetan Ralekar, Ashwini Vaidya, Michelle Oraa Ali and Pawan Sinha. _32nd CUNY_. Mar, 2019 (University of Colarado).
+Perspective taking in newly-sighted kids: Do they orient towards an interlocutors face? Paula Rubio-Fernandez, **Vishakha Shukla**, Shlomit Ben Ami, Chetan Ralekar, Ashwini Vaidya, Michelle Oraa Ali and Pawan Sinha. _32nd CUNY_. Mar, 2019 (University of Colarado).
 
 

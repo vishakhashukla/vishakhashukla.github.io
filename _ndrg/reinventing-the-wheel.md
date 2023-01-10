@@ -1,6 +1,7 @@
 ---
 title: Re-inventing the wheel?
 classes: wide
+comments: true
 excerpt: Is ND movement re-inventing the wheel without fair justification? Divergence from broader Disability Rights movement
 sidebar:
   - title: ""
