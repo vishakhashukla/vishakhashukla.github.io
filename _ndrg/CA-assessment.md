@@ -2,7 +2,7 @@
 title: Social Communication Assessment using Conversation Analysis
 classes: wide
 comments: true
-excerpt: Is ND movement re-inventing the wheel without fair justification? Divergence from broader Disability Rights movement
+excerpt: How to not compare? How do researcher identities matter?
 sidebar:
   - title: ""
     image: "/assets/images/ndrg-modified.png"
