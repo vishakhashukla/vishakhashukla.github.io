@@ -11,4 +11,10 @@ main:
 #  - title: "Ruh"
 #    url: /ruh/
 
+sidebar-sample:
+  - title: ""
+    children:
+      - title: "Go back to index"
+        url: /ndrg-blog/
+
 

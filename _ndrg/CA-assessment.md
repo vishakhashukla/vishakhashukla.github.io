@@ -7,6 +7,7 @@ sidebar:
   - title: ""
     image: "/assets/images/ndrg-modified.png"
     image_alt: "ndrg-logo"
+    nav: sidebar-sample
 ---
 | Paper         | Authors | 
 |-------------- |---------| 
