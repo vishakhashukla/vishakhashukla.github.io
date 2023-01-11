@@ -8,8 +8,8 @@ main:
     url: /Work/
   - title: "CV"
     url: /CV-vshukla.pdf
-#  - title: "Ruh"
-#    url: /ruh/
+  - title: "🐕"
+    url: /ruh/
 
 sidebar-sample:
   - title: ""
