@@ -1,6 +1,7 @@
 ---
 title: NDRG - Reflections
 layout: collection
+classes: wide
 permalink: /ndrg-blog/
 collection: ndrg
 sidebar:

@@ -2,6 +2,11 @@
 layout: single
 author_profile: true
 classes: landing
+sidebar:
+  - title: ""
+    image: "/assets/images/learnLab-small.jpg"
+    image_alt: "image"
+    text: "**Affiliated Lab:**"
 ---
 
 
