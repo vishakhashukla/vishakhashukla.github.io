@@ -3,10 +3,9 @@ layout: single
 author_profile: true
 classes: landing
 sidebar:
-  - title: ""
-    image: "/assets/images/learnLab-small.jpg"
-    image_alt: "image"
-    text: "**Affiliated Lab:**"
+        - text: >
+            [![LearnLabLab Image](/assets/images/learnLab-small.jpg)](https://wp.nyu.edu/learnlab/)
+
 ---
 
 
