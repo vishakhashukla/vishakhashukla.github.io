@@ -4,7 +4,7 @@ author_profile: true
 classes: landing
 sidebar:
         - text: >
-            [![LearnLabLab Image](/assets/images/learnLab-small.jpg)](https://wp.nyu.edu/learnlab/)
+            [![lab_img](/assets/images/learnLab-small.jpg)](https://wp.nyu.edu/learnlab/)
 
 ---
 

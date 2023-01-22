@@ -8,13 +8,15 @@ main:
     url: /Work/
   - title: "CV"
     url: /CV-vshukla.pdf
+  - title: "NDRG-Blog"
+    url: /ndrg-blog/
   - title: "🐕"
     url: /ruh/
 
 sidebar-sample:
   - title: ""
     children:
-      - title: "Go back to index"
+      - title: "Go back to index ⤴️"
         url: /ndrg-blog/
 
 

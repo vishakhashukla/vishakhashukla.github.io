@@ -12,4 +12,7 @@ sidebar:
 
 ---
 
+
+
 Here are some relfections following the discussions in neurodiversity reading group. All the views expressed here are my own and they do not reflect opinions of the group as a whole.
+
