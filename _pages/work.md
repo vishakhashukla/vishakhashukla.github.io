@@ -3,7 +3,7 @@ title:  "Publications"
 layout: single
 classes: wide
 permalink: /Work/
-author_profile: false
+author_profile: true
 ---
 ## Peer-reviewed articles
 
