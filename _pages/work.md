@@ -21,7 +21,7 @@ Yadav H., Vaidya A., **Shukla V.** & Husain S. (2020). Word Order Typology Inter
 
 ## Conference Presentations
 
-<a href = "https://vishakhashukla.github.io/assets/research/SRCLD2023-AMAX-poster.pdf"> Processing load and verb learning in an online study with autistic and non-autistic preschoolers.</a> **Vishakha Shukla**, Rhiannon Luyster, Sydney Flisser, Sudha Arunachalam. _Symposium on Research in Child Language Disorders_. June, 2023 (UW Madison).
+<a href = "https://vishakhashukla.github.io/assets/research/SRCLD2023-AMAX-poster.jpg"> Processing load and verb learning in an online study with autistic and non-autistic preschoolers.</a> **Vishakha Shukla**, Rhiannon Luyster, Sydney Flisser, Sudha Arunachalam. _Symposium on Research in Child Language Disorders_. June, 2023 (UW Madison).
 
 Comprehension of unscripted parent narratives by autistic children. **Vishakha Shukla**, Angela Xiaoxue He, Sudha Arunachalam. _Symposium on Research in Child Language Disorders_. June, 2022 (UW Madison).
 
