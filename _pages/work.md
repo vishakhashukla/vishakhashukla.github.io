@@ -21,6 +21,8 @@ Yadav H., Vaidya A., **Shukla V.** & Husain S. (2020). Word Order Typology Inter
 
 ## Conference Presentations
 
+<a target="_blank" rel="noopener noreferrer" href = "https://vishakhashukla.github.io/assets/research/MPaL2023-poster.jpg"> Attention to illustrations in autistic and non-autistic children following spontaneous parent narratives: An exploratory eye-tracking study.</a> **Vishakha Shukla**, Angela Xiaoxue, Sudha Arunachalam. _Many Paths to Language_. October, 2023 (Njimegen, The Netherlands).
+
 <a target="_blank" rel="noopener noreferrer" href = "https://vishakhashukla.github.io/assets/research/SRCLD2023-AMAX-poster.jpg"> Processing load and verb learning in an online study with autistic and non-autistic preschoolers.</a> **Vishakha Shukla**, Rhiannon Luyster, Sydney Flisser, Sudha Arunachalam. _Symposium on Research in Child Language Disorders_. June, 2023 (UW Madison).
 
 <a target="_blank" rel="noopener noreferrer" href = "https://vishakhashukla.github.io/assets/research/MoLA2023-poster.jpg"> Parental tuning of narratives directed to autistic and non-autistic children: An exploratory eye-tracking study.</a> **Vishakha Shukla**, Angela Xiaoxue, Sudha Arunachalam. _Meeting on Language in Autism_. Mar, 2023 (Durham, USA).
