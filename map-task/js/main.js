@@ -1,28 +1,8 @@
 var imageList = [
-'images/story1.JPG',
-'images/story1-0.JPG',
-'images/story1-1.JPG',
-'images/story1-2.JPG',
-'images/story1-3.JPG',
-'images/story1-0.JPG',
-'images/story2.JPG',
-'images/story2-0.JPG',
-'images/story2-1.JPG',
-'images/story2-2.JPG',
-'images/story2-3.JPG',
-'images/story2-0.JPG',
-'images/story3.JPG',
-'images/story3-0.JPG',
-'images/story3-1.JPG',
-'images/story3-2.JPG',
-'images/story3-3.JPG',
-'images/story3-0.JPG',
-'images/story4.JPG',
-'images/story4-0.JPG',
-'images/story4-1.JPG',
-'images/story4-2.JPG',
-'images/story4-3.JPG',
-'images/story4-0.JPG',
+'images/map-e1.jpg',
+'images/map-e2.jpg',
+'images/map-h1.jpg',
+'images/map-h2.jpg',
 'images/fin.JPG'
 ];
 
@@ -30,8 +10,8 @@ var imageList = [
 var curr = 0;
 
 function main() {
-	document.querySelectorAll('.btn-gallery').forEach(function(e) {
-		e.onclick=display;
+	document.querySelectorAll('.img-size').forEach(function(e) {
+		e.onclick=display.bind(this,e.value);
 	});
 	document.querySelector('#btn-prev').onclick = prev;
 	document.querySelector('#btn-next').onclick = next;
@@ -42,9 +22,10 @@ function main() {
 	};
 }
 
-function display() {
+function display(val) {
 	document.querySelector('#form1').style.display = 'none';
 	document.querySelector('#gallery').style.display = 'block';
+	document.querySelector('#user').src = 'images/user' + val + '.jpeg';
 }
 
 function next() {

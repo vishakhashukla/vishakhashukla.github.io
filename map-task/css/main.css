@@ -48,3 +48,39 @@ h2 {
   height: 97vh;
   max-width: 97vw;
 }
+
+.img-size img {
+    width: 150px;
+    height: 150px;
+}
+
+#avatar {
+	float: right;
+	display: inline-block;
+	text-align: center;
+	width: 120px;
+}
+
+#user {
+    width: 150px;
+    height: 150px;
+}
+
+.caption-main {
+	text-align: center;
+	font-weight: bold;
+	font-size: 16pt;
+}
+
+.facts {
+	float: right;
+	display: inline-block;
+    background-color:#DFFF00;
+}
+
+.facts-main {
+	display: block;
+	font-weight: bold;
+	font-size: 12pt;
+    background-color:#DFFF00;
+}
