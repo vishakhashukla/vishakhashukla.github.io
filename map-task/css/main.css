@@ -72,15 +72,29 @@ h2 {
 	font-size: 16pt;
 }
 
-.facts {
+#facts {
 	float: right;
 	display: inline-block;
     background-color:#DFFF00;
 }
 
-.facts-main {
+#facts-main {
 	display: block;
 	font-weight: bold;
 	font-size: 12pt;
     background-color:#DFFF00;
+}
+
+#wait {
+	margin-top: 45%;
+	display: none;
+}
+
+#fin-img {
+	display: none;
+}
+
+figure {
+	text-align: center;
+	text-indent: 0;
 }

@@ -8,7 +8,7 @@
   </head>
   <body>
     <div id="wrapper">
-      <div id="form1">
+      <div id="form1">      	
         <h2>
           Select an avatar:
         </h2>
@@ -16,15 +16,25 @@
         <button type="button" value = "2" class="img-size"><img src = "images/user2.jpeg" ></button>
         <button type="button" value = "3" class="img-size"><img src = "images/user3.jpeg" ></button>
       </div>
+      
+      <div id="wait">
+       <img src="images/spinner.gif" alt="waiting for your partner to join">
+       
+       <div class="caption-main"> Waiting for your partner to join...</div>
+      </div>
+      
       <div id="gallery">
       	<div id = "avatar">
+      		<figure>
       		<img id="user" src = "" >
-      		<span class="caption-main">You</span>
+      		<figcaption class="caption-main">You</figcaption>
+      		</figure>
+      		<figure>
       		<img id="user" src="images/user2.jpeg">
-      		<span class="caption-main">Partner</span>
-
-      			<div class="facts-main">Random Facts: </div>
-      			<div class="facts"> 1. I love playing volleyball. <br /> 2. I am autistic.  <br /> 3. I have two siblings.</div>
+      		<figcaption class="caption-main">Partner</figcaption>
+			</figure>
+      			<div id="facts-main">Random Facts: </div>
+      			<ol id="facts"> </ol>
       			
       	</div>
       	
@@ -34,10 +44,17 @@
           <button type="button" class="btn-control" id="btn-next">➡</button>
           </span>
         </div>
+        
         <div id="img-container">
+        <h3 id="heading-map"> </h3>
           <img id="img-main" src="images/map-e1.jpg">
         </div>
       </div>
+      <div id="fin-img">
+      	<img id="img-fin" src="images/fin.JPG">
+      	<button type="button" id="btn-again"> Press to play again! </button>
+     </div>
+     
     </div>
   </body>
 </html>
