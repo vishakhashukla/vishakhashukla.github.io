@@ -40,7 +40,7 @@ async function display(val) {
 	document.querySelector('#fin-img').style.display = 'none';
 	document.querySelector('#form1').style.display = 'none';
 	document.querySelector('#wait').style.display = 'block';
-//	await sleep(rand_t*1000);
+	await sleep(rand_t*1000);
 	document.querySelector('#wait').style.display = 'none';
 	document.querySelector('#gallery').style.display = 'block';
 	document.querySelector('#user').src = 'images/user' + val + '.jpeg';
