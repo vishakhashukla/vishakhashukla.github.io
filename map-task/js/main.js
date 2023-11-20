@@ -8,13 +8,17 @@ var imageList = [[
 ]];
 
 var rand_facts = [ ['I love playing volleyball.', 'I am autistic.' ,'I have two siblings.'],
-['I love playing volleyball.', 'I suck dick on sundays' ,'I have two siblings.']
+["I like dogs but don't have one myself.", "I'm left-handed." ,"I enjoy hiking."]
 ];
 
 
 var curr = 0,
 	attempt = 0;
 
+function get_random (list) {
+  return list[Math.floor((Math.random()*list.length))];
+}
+var partner_id = get_random([1,2,3])
 
 function main() {
 	document.querySelectorAll('.img-size').forEach(function(e) {
@@ -44,6 +48,7 @@ async function display(val) {
 	document.querySelector('#wait').style.display = 'none';
 	document.querySelector('#gallery').style.display = 'block';
 	document.querySelector('#user').src = 'images/user' + val + '.jpeg';
+	document.querySelector('#partner').src = 'images/user' + partner_id + '.jpeg';
 	document.querySelector('#facts').replaceChildren();
 	rand_facts[attempt].forEach(function(e) {
 		var li = document.createElement('li');
@@ -56,9 +61,12 @@ function next() {
 	if (curr == imageList[attempt].length - 1) {
 		document.querySelector('#gallery').style.display = 'none';
 		document.querySelector('#fin-img').style.display = 'block';
+		document.querySelector('#end').style.display = 'none';
 		
 		if (attempt == 1) {
 		document.querySelector('#btn-again').style.display = 'none';
+		document.querySelector('#thanks').style.display = 'none';
+		document.querySelector('#end').style.display = 'block';
 		}
 		return false;
 	}
@@ -90,10 +98,11 @@ function prev() {
 function again() {
 	attempt = 1;
 	curr = 0;
+	partner_id = get_random([1,2,3])
 	document.querySelector('#form1').style.display = 'block';
 	document.querySelector('#gallery').style.display = 'none';
 	document.querySelector('#img-main').src = 'images/map-e2.jpg';
-	document.querySelector('#img-fin').src = 'images/spinner.gif';
+//    document.querySelector('#img-fin').src = 'images/fin.JPG';
 	document.querySelector('#fin-img').style.display = 'none';
 }
 addEventListener('load', main, false);

@@ -1,3 +1,5 @@
+html {background-color: #D5D8DC;}
+
 * {
   margin: 0;
   padding 0;
@@ -45,8 +47,10 @@ h2 {
 }
 
 #img-main {
-  height: 97vh;
+  border: solid;
+  height: 95vh;
   max-width: 97vw;
+  overflow: hidden;
 }
 
 .img-size img {
@@ -56,12 +60,18 @@ h2 {
 
 #avatar {
 	float: right;
+	margin-right: -10%;
 	display: inline-block;
 	text-align: center;
 	width: 120px;
 }
 
 #user {
+    width: 150px;
+    height: 150px;
+}
+
+#partner {
     width: 150px;
     height: 150px;
 }
@@ -73,17 +83,26 @@ h2 {
 }
 
 #facts {
-	float: right;
-	display: inline-block;
-    background-color:#DFFF00;
+	border: 0.3rem dashed black;
+    box-shadow: 10px 5px 5px rgba(0,0,0,0.17);
+	display: block;
+	text-align: left;
+	font-size: 14pt;
+    background-color:#B3D2F7;
+    width: 150px;
+    padding: 20px;
+
 }
 
 #facts-main {
-	display: block;
+	border: 0.3rem black;
+	border-style: solid solid hidden solid;
 	font-weight: bold;
-	font-size: 12pt;
-    background-color:#DFFF00;
+	font-size: 15pt;
+    background-color:#B3D2F7;
+    width: 190px;
 }
+
 
 #wait {
 	margin-top: 45%;
@@ -92,9 +111,23 @@ h2 {
 
 #fin-img {
 	display: none;
+	text-align: center;
+    justify-content: center;
 }
 
 figure {
 	text-align: center;
 	text-indent: 0;
 }
+
+#btn-again {
+  border: 0.3rem solid black;
+  border-radius:2em;
+  box-shadow:inset 0 -0.6em 0 -0.35em rgba(0,0,0,0.17);
+  margin-top: 35%;
+  width: 256px;
+  height: 128px;
+  background-color: #aabbff;
+  font-size: 24pt;
+}
+
