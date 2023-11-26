@@ -27,11 +27,11 @@ function main() {
 	document.querySelector('#btn-prev').onclick = prev;
 	document.querySelector('#btn-next').onclick = next;
 	document.querySelector('#btn-again').onclick = again;
-	onkeydown = function(e) {
-		if (e.keyCode == 32) {
-			next();
-		}
-	};
+//	onkeydown = function(e) {
+//		if (e.keyCode == 32) {
+//			next();
+//		}
+//	};
 }
 
 function sleep(ms) {
@@ -73,9 +73,9 @@ function next() {
 	curr += 1;
 	document.querySelector('#heading-map').innerHTML = "MAP " + (curr+1);
 	document.querySelector('#img-main').src = imageList[attempt][curr];
-	if (curr == imageList[attempt].length - 1) {
-		document.querySelector('#btn-next').disabled = true;
-	}
+//	if (curr == imageList[attempt].length - 1) {
+//		document.querySelector('#btn-next').disabled = true;
+//	}
 	if (curr > 0) {
 		document.querySelector('#btn-prev').disabled = false;
 	}
