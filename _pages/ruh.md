@@ -41,14 +41,26 @@ gallery:
     image_path: /assets/images/ruh/blanket-2.jpeg
     alt: "ruh with her blanket around her shoulders"
     title: "thakuraain"
-  - url: /assets/images/ruh/teefies.jpeg
-    image_path: /assets/images/ruh/teefies.jpeg
-    alt: "two images, a finger pointing at ruh and she shows her teeth in a grin, secong image she is not grinning"
-    title: "say teeef"
+  - url: /assets/images/ruh/kisaan.jpeg
+    image_path: /assets/images/ruh/kisaan.jpeg
+    alt: "ruh has a head wrap like an indian farmer working in the field"
+    title: "kisaan"
   - url: /assets/images/ruh/sleeping-beauty.jpeg
     image_path: /assets/images/ruh/sleeping-beauty.jpeg
     alt: "ruh sleeping in her crate all sprawled out comfortable on her back. beautiful blue lighting "
     title: "sleeping beaut"
+  - url: /assets/images/ruh/boat.jpeg
+    image_path: /assets/images/ruh/boat.jpeg
+    alt: "ruh in a boat on ganga"
+    title: "holy"
+  - url: /assets/images/ruh/pack-leader.jpg
+    image_path: /assets/images/ruh/pack-leader.jpg
+    alt: "ruh standing in front of some kids on a slide"
+    title: "her army"
+  - url: /assets/images/ruh/teefies.jpeg
+    image_path: /assets/images/ruh/teefies.jpeg
+    alt: "two images, a finger pointing at ruh and she shows her teeth in a grin, secong image she is not grinning"
+    title: "say teeef"
     
     
  

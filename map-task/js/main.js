@@ -23,8 +23,9 @@ var partner_id = get_random([1,2,3])
 function main() {
 	document.querySelectorAll('.img-size').forEach(function(e) {
 		e.onclick=display.bind(this,e.value);
+	
 	});
-	document.querySelector('#btn-prev').onclick = prev;
+//	document.querySelector('#btn-prev').onclick = prev;
 	document.querySelector('#btn-next').onclick = next;
 	document.querySelector('#btn-again').onclick = again;
 //	onkeydown = function(e) {
@@ -43,9 +44,25 @@ async function display(val) {
 	var rand_t = 5 + 5*Math.random();
 	document.querySelector('#fin-img').style.display = 'none';
 	document.querySelector('#form1').style.display = 'none';
+	document.querySelector('#info').style.display = 'none';
 	document.querySelector('#wait').style.display = 'block';
 	await sleep(rand_t*1000);
 	document.querySelector('#wait').style.display = 'none';
+	document.querySelector('#info').style.display = 'block';
+	document.querySelector('#btn-start').onclick = start.bind(this, val);
+	document.querySelector('#i-partner').src = 'images/user' + partner_id + '.jpeg';
+	document.querySelector('#i-facts').replaceChildren();
+	rand_facts[attempt].forEach(function(e) {
+		var li = document.createElement('li');
+		li.innerHTML = e;
+		document.querySelector('#i-facts').appendChild(li);
+		} );
+
+
+}
+
+function start(val) {
+	document.querySelector('#info').style.display = 'none';
 	document.querySelector('#gallery').style.display = 'block';
 	document.querySelector('#user').src = 'images/user' + val + '.jpeg';
 	document.querySelector('#partner').src = 'images/user' + partner_id + '.jpeg';

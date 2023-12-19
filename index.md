@@ -9,14 +9,11 @@ sidebar:
 ---
 
 
-I am a second year PhD student in the 
-<a href="https://steinhardt.nyu.edu/departments/communicative-sciences-and-disorders">Department of Communicative Sciences and Disorders</a>, New York University. I work with <a href="https://steinhardt.nyu.edu/people/sudha-arunachalam">Dr. Sudha Arunachalam</a> as a member of <a href="https://wp.nyu.edu/learnlab/">LEARN Lab</a>. 
+I am a third year PhD student in the 
+<a href="https://steinhardt.nyu.edu/departments/communicative-sciences-and-disorders">Department of Communicative Sciences and Disorders</a>, New York University. I work with <a href="https://steinhardt.nyu.edu/people/sudha-arunachalam">Dr. Sudha Arunachalam</a> as a member of <a href="https://wp.nyu.edu/learnlab/">LEARN Lab</a>. My current research interests are language development in autistic and non-autistic children, parent-child interactions, and crossneurotpye interactions in adults.
 <br>
 <br>
-I am interested in language development in autistic and non-autistic children, particularly in the context of parent-child interactions. My current research focus is on online comprehension of parent input by autistic children. Prior to this, I was part of a project led by <a href = "https://www.hf.uio.no/ifikk/personer/vit/filosofi/midlertidig/paulorf/index.html"> Dr. Paula Rubio Fernandez</a> that investigated referential communication in newly sighted and blind children.
-<br>
-<br>
-I have a developing interest in neurodiversity studies and I run a reading group focussed on ideas emerging in this field. I post my thoughts after each meeting on <a href = "/ndrg-blog/">**N**euro**D**iversity **R**eading **G**roup blog.</a> I like getting to know other neurodivergent academics. You can reach me at <a href= "mailto:vshukla@nyu.edu"> vshukla@nyu.edu </a> if you would like to connect.
+As a neurodivergent person, I am passionate about learning and spreading awareness about neurodiversity-informed research. I run a **N**euro**D**iversity **R**eading **G**roup in my department and record some of my thoughts in this sporadically updated <a href = "/ndrg-blog/">blog</a>.
 
 <p> Hear my name: </p>
 <audio controls> <source src="assets/media/vs_name.mp3"> </audio>

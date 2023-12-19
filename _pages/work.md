@@ -1,6 +1,6 @@
 ---
 title:  "Publications"
-layout: single
+layout: splash
 classes: wide
 permalink: /Work/
 author_profile: false
