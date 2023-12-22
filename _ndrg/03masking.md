@@ -2,9 +2,10 @@
 title: Masking
 layout: splash
 classes: wide
-excerpt: Maasking
+excerpt: Parallels between ND and cultural/linguistic masking
 author_profile: false
 search: false
+order: 3
 ---
 
 <style type="text/css">

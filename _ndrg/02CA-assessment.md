@@ -3,11 +3,7 @@ title: Social Communication Assessment using Conversation Analysis
 classes: wide
 comments: true
 excerpt: How to not compare? How do researcher identities matter?
-sidebar:
-  - title: ""
-    image: "/assets/images/ndrg-modified.png"
-    image_alt: "ndrg-logo"
-    nav: sidebar-sample
+order: 2
 ---
 | Paper         | Authors | 
 |-------------- |---------| 
