@@ -19,3 +19,14 @@ html {
 }
 
 img[alt=lab_img] { width: 50%; }
+
+p.big {
+  line-height: 1.8;
+}
+
+.first-letter {
+  font-size: 35px;
+  font-weight: bold;
+  line-height: 70px;
+  line-height: .75;
+}

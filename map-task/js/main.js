@@ -7,7 +7,7 @@ var imageList = [[
 'images/map-h2.jpg'
 ]];
 
-var rand_facts = [ ['I love playing volleyball.', 'I am autistic.' ,'I have two siblings.'],
+var rand_facts = [ ['I love playing volleyball.', 'I am on the autism spectrum.' ,'I have two siblings.'],
 ["I like dogs but don't have one myself.", "I'm left-handed." ,"I enjoy hiking."]
 ];
 
