@@ -11,7 +11,6 @@ order: 3
 <style type="text/css">
   body{
   font-family: Garamond;
-  font-size: 16pt;
 }
 </style>
 
