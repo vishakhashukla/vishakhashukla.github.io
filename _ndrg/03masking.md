@@ -60,3 +60,5 @@ Over a decade later, I am still there. Scripting, failing, guilting, theorizing,
 <p class="big">I hate wrapping up paragraphs. I don’t have one.</p>
 
 <p class="big">Aside: This could have been just a journal entry, probably should have been. I am not sure it is worth anyone’s while reading this. But it helped me put together some scattered ideas and has been a great distracting exercise to deal with holidays loneliness haha! Not to mention, everything I am learning about HTML/CSS coding along the way!</p> 
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1OrBPFs8yLkT02aLiloHQs?utm_source=generator" width="50%" height="176" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
