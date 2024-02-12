@@ -8,8 +8,8 @@ main:
     url: /Work/
   - title: "CV"
     url: /CV-vshukla.pdf
-  - title: "NDRG-Blog"
-    url: /ndrg-blog/
+#  - title: "NDRG-Blog"
+#    url: /ndrg-blog/
   - title: "🐕"
     url: /ruh/
 
