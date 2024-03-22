@@ -18,7 +18,7 @@ var curr = 0,
 function get_random (list) {
   return list[Math.floor((Math.random()*list.length))];
 }
-var partner_id = get_random([1,2,3])
+var partner_id = get_random([1,2,3,4])
 
 function main() {
 	document.querySelectorAll('.img-size').forEach(function(e) {
