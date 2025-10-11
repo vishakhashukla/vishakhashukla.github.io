@@ -1,11 +1,12 @@
 ---
 title:  "Publications"
-layout: splash
-classes: wide
+layout: single
 permalink: /Work/
 author_profile: false
 ---
-## Peer-reviewed articles
+## Peer-reviewed
+
+Arunachalam, S., Carroll, L., Lee, R., Luyster, R., Margolis, B., & **Shukla, V.** (Forthcoming). Autistic parents and autistic children: Using the double empathy model in the context of language use and development. In _Routledge Handbook of Neurodiversity and Applied Linguistics_. Routledge.
 
 **Shukla, V.**, Long, M., Rubio-Fernandez, P. (2022). Children’s acquisition of new/given markers in English, Hindi, Mandinka and Spanish: Exploring the effect of optionality during grammaticalization. _Glossa Psycholinguistics_. <a href="https://doi.org/10.5070/G6011120" target = "_blank">https://doi.org/10.5070/G6011120</a>
 
@@ -18,6 +19,12 @@ Rubio-Fernandez, P., Long, M., **Shukla, V.**, Bhatia, V., & Sinha, P. (2022). V
 Long M., **Shukla V.** & Rubio-Fernandez P. (2021). The development of simile comprehension: from similarity to scalar implicature. _Child Development_. <a href = "https://doi.org/10.1111/cdev.13507" target = "_blank">https://doi.org/10.1111/cdev.13507</a>
 
 Yadav H., Vaidya A., **Shukla V.** & Husain S. (2020). Word Order Typology Interacts With Linguistic Complexity: A Cross‐Linguistic Corpus Study. _Cognitive science_. <a href = "https://doi.org/10.1111/cogs.12822" target = "_blank">https://doi.org/10.1111/cogs.12822</a>
+
+## Conference Proceedings
+Rubio-Fernandez, P., Long, M., **Shukla, V.**, Bhatia, V., Mahapatra, A., Ralekar, D. C., Ben-Ami, S., & Sinha, P. (2023). Multimodal communication in newly sighted children: An investigation of the relation between visual experience and pragmatic development. _Proceedings of the Annual Meeting of the Cognitive Science Society_, 46. <a href="https://escholarship.org/uc/item/6p44s5dv" target="_blank">https://escholarship.org/uc/item/6p44s5dv</a>
+
+Ben-Ami, S., **Shukla, V.**, Gupta, P., Shah, P., Ralekar, D. C., Ganesh, D. S., Gilad-Gutnick, D. S., Rubio-Fernández, P., & Sinha, P. (2024). Form perception as a bridge to real-world functional proficiency. _Proceedings of the Annual Meeting of the Cognitive Science Society_, 46. <a href="https://escholarship.org/uc/item/4470w839" target="_blank">https://escholarship.org/uc/item/4470w839
+<
 
 ## Conference Presentations
 
