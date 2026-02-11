@@ -3,8 +3,7 @@ layout: single
 author_profile: true
 classes: landing
 sidebar:
-        - text: >
-            [![lab_img](/assets/images/learnLab-small.jpg)](https://wp.nyu.edu/learnlab/)
+        
 
 ---
 
