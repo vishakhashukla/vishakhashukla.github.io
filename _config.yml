@@ -41,7 +41,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : "github-light" #(default), "github-dark"
+    theme                : "github-dark" #(default), "github-dark"
     issue_term           :  "pathname"
     label				 : "comment"
   giscus:
@@ -104,9 +104,9 @@ analytics:
 # Site Author
 author:
   name             : #"Vishakha Shukla"
-  avatar           : "/assets/images/mug-crop.jpg"
-  bio              : "Doctoral Student"
-  location         : "NYU"
+  avatar           : "/assets/images/pic_alt.jpg"
+  bio              : #""
+  location         : #"NYU"
   email            : "vshukla@nyu.edu"
   googlescholar    : "https://scholar.google.com/citations?user=jgbF30oAAAAJ&hl=en&oi=ao"
   links:

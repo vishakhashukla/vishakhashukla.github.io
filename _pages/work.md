@@ -4,9 +4,18 @@ layout: single
 permalink: /Work/
 author_profile: false
 ---
-## Peer-reviewed
+## Journal Articles
 
-Arunachalam, S., Carroll, L., Lee, R., Luyster, R., Margolis, B., & **Shukla, V.** (Forthcoming). Autistic parents and autistic children: Using the double empathy model in the context of language use and development. In _Routledge Handbook of Neurodiversity and Applied Linguistics_. Routledge.
+### Under Review
+**Shukla, V.**, Jaswal, V., Arunachalam, S. (under review). _Linguistic accommodation made by
+non-autistic speakers in response to being told the listener is autistic_. PsyArXiv. <a href="https://doi.org/10.31234/osf.io/98uej_v1" target = "_blank">https://doi.org/10.31234/osf.io/98uej_v1</a>
+
+**Shukla, V.**, He, A. H., Arunachalam, S. (under revision, second round). _Tuning of unscripted parent
+narratives directed to autistic and non-autistic children: An exploratory eye-tracking study._. PsyArXiv. <a href="https://doi.org/10.31234/osf.io/b23ap_v1" target = "_blank">https://doi.org/10.31234/osf.io/b23ap_v1</a>
+
+
+### Published
+Arunachalam, S., Carroll, L., Lee, R., Luyster, R., Margolis, B., & **Shukla, V.** (2026). Autistic parents and autistic children: Using the double empathy model in the context of language use and development. In: Ortega, Y., Brea, M. R., Canagarajah, S., & Walker, N. (Eds)., _Routledge Handbook of Neurodiversity and Applied Linguistics_. Routledge. [author order is alphabetical].
 
 **Shukla, V.**, Long, M., Rubio-Fernandez, P. (2022). Children’s acquisition of new/given markers in English, Hindi, Mandinka and Spanish: Exploring the effect of optionality during grammaticalization. _Glossa Psycholinguistics_. <a href="https://doi.org/10.5070/G6011120" target = "_blank">https://doi.org/10.5070/G6011120</a>
 
@@ -27,6 +36,10 @@ Ben-Ami, S., **Shukla, V.**, Gupta, P., Shah, P., Ralekar, D. C., Ganesh, D. S.,
 <
 
 ## Conference Presentations
+Impact of accommodated speech on autistic people’s evaluation of the speaker. **Vishakha Shukla**, Vikram Jaswal, Sudha Arunachalam. _Annual Conference on Human Sentence Processing_. March, 2026 (Boston, USA).
+
+Linguistic accommodation in autistic and non-autistic dyads in response to “autism” label
+. **Vishakha Shukla**, Vikram Jaswal, Sudha Arunachalam. _Linguistic Society of America Annual Meeting_. January, 2026 (New Orleans, USA).
 
 <a target="_blank" rel="noopener noreferrer" href = "https://vishakhashukla.github.io/assets/research/MPaL2023-poster.jpg"> Attention to illustrations in autistic and non-autistic children following spontaneous parent narratives: An exploratory eye-tracking study.</a> **Vishakha Shukla**, Angela Xiaoxue, Sudha Arunachalam. _Many Paths to Language_. October, 2023 (Njimegen, The Netherlands).
 

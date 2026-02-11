@@ -9,7 +9,7 @@ sidebar:
 ---
 
 
-I am a PhD candidate and an adjunct instructor in the 
+I am a PhD candidate in the 
 <a href="https://steinhardt.nyu.edu/departments/communicative-sciences-and-disorders">Department of Communicative Sciences and Disorders</a>, New York University. I study linguistic accommodation in intergroup contexts, examining how social identities and attitudes toward those identities shape the ways in which interlocutors linguistically accommodate one another in interactions; and how such accommodations are perceived by the listeners. My work focuses especially on contexts involving autistic individuals and uses psycholinguistic methods to study these dynamics.
 
 Other primary areas of interest include: 
@@ -21,7 +21,7 @@ Current mentor-collaborators: <a href="https://steinhardt.nyu.edu/people/sudha-a
 <br>
 
 <br>
-
+Email: vshukla AT nyu DOT edu
 
 <p> Hear my name: </p>
 <audio controls> <source src="assets/media/vs_name.mp3"> </audio>
