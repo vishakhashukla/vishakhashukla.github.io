@@ -36,7 +36,7 @@ Ben-Ami, S., **Shukla, V.**, Gupta, P., Shah, P., Ralekar, D. C., Ganesh, D. S.,
 <
 
 ## Conference Presentations
-Impact of accommodated speech on autistic people’s evaluation of the speaker. **Vishakha Shukla**, Vikram Jaswal, Sudha Arunachalam. _Annual Conference on Human Sentence Processing_. March, 2026 (Boston, USA).
+<a target="_blank" rel="noopener noreferrer" href = "https://vishakhashukla.github.io/assets/research/HSP_poster_2026.pdf">Impact of accommodated speech on autistic people’s comprehension and evaluation of the speaker.</a> **Vishakha Shukla**, Vikram Jaswal, Sudha Arunachalam. _Annual Conference on Human Sentence Processing_. March, 2026 (Boston, USA).
 
 Linguistic accommodation in autistic and non-autistic dyads in response to “autism” label
 . **Vishakha Shukla**, Vikram Jaswal, Sudha Arunachalam. _Linguistic Society of America Annual Meeting_. January, 2026 (New Orleans, USA).
