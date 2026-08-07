@@ -6,15 +6,18 @@ author_profile: false
 ---
 ## Journal Articles
 
-### Under Review
-**Shukla, V.**, Jaswal, V., Arunachalam, S. (under review). _Linguistic accommodation made by
-non-autistic speakers in response to being told the listener is autistic_. PsyArXiv. <a href="https://doi.org/10.31234/osf.io/98uej_v1" target = "_blank">https://doi.org/10.31234/osf.io/98uej_v1</a>
+### Under Review / In preparation
 
 **Shukla, V.**, He, A. H., Arunachalam, S. (under revision, second round). _Tuning of unscripted parent
-narratives directed to autistic and non-autistic children: An exploratory eye-tracking study._. PsyArXiv. <a href="https://doi.org/10.31234/osf.io/b23ap_v1" target = "_blank">https://doi.org/10.31234/osf.io/b23ap_v1</a>
+narratives directed to autistic and non-autistic children: An exploratory eye-tracking study._ PsyArXiv. <a href="https://doi.org/10.31234/osf.io/b23ap_v1" target = "_blank">https://doi.org/10.31234/osf.io/b23ap_v1</a>
 
+**Shukla, V.**, Jaswal, V., Arunachalam, S. (in preparation). _Impact of accommodated speech on autistic
+adults’ comprehension and evaluation of the speaker_.
 
 ### Published
+**Shukla, V.**, Jaswal, V., Arunachalam, S. (2026). _Linguistic accommodation made by
+non-autistic speakers in response to being told the listener is autistic_. _Acta Psychologica_. <a href="https://doi.org/10.1016/j.actpsy.2026.107434" target = "_blank">https://doi.org/10.1016/j.actpsy.2026.107434</a>
+
 Arunachalam, S., Carroll, L., Lee, R., Luyster, R., Margolis, B., & **Shukla, V.** (2026). Autistic parents and autistic children: Using the double empathy model in the context of language use and development. In: Ortega, Y., Brea, M. R., Canagarajah, S., & Walker, N. (Eds)., _Routledge Handbook of Neurodiversity and Applied Linguistics_. Routledge. [author order is alphabetical].
 
 **Shukla, V.**, Long, M., Rubio-Fernandez, P. (2022). Children’s acquisition of new/given markers in English, Hindi, Mandinka and Spanish: Exploring the effect of optionality during grammaticalization. _Glossa Psycholinguistics_. <a href="https://doi.org/10.5070/G6011120" target = "_blank">https://doi.org/10.5070/G6011120</a>
