@@ -107,8 +107,8 @@ author:
   avatar           : "/assets/images/pic_alt.jpg"
   bio              : #""
   location         : #"NYU"
-  email            : "vshukla@nyu.edu"
-  googlescholar    : "https://scholar.google.com/citations?user=jgbF30oAAAAJ&hl=en&oi=ao"
+  email            : #"vshukla@nyu.edu"
+  googlescholar    : #"https://scholar.google.com/citations?user=jgbF30oAAAAJ&hl=en&oi=ao"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
