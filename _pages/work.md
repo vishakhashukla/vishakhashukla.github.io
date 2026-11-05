@@ -11,7 +11,7 @@ author_profile: false
 **Shukla, V.**, He, A. H., Arunachalam, S. (under revision, second round). _Tuning of unscripted parent
 narratives directed to autistic and non-autistic children: An exploratory eye-tracking study._ PsyArXiv. <a href="https://doi.org/10.31234/osf.io/b23ap_v1" target = "_blank">https://doi.org/10.31234/osf.io/b23ap_v1</a>
 
-**Shukla, V.**, Jaswal, V., Arunachalam, S. (in preparation). _Impact of accommodated speech on autistic
+**Shukla, V.**, Jaswal, V., Arunachalam, S. (under review). _Impact of accommodated speech on autistic
 adults’ comprehension and evaluation of the speaker_.
 
 ### Published
